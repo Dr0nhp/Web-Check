@@ -1,3 +1,8 @@
 # web-check
 
-Nothing to write in here atm.
+Index:  Rough plan
+
+## Rough plan
+    crawl one site
+    fetch interesting objects
+    ???
